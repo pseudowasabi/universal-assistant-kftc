@@ -1,0 +1,3 @@
+[submodule "hexfile-decomposer"]
+	path = hexfile-decomposer
+	url = https://github.com/pseudowasabi/hexfile-decomposer
